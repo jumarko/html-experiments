@@ -1,0 +1,35 @@
+.ex1 {
+
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.ex2 {
+  /* the same value for each property */
+  padding: 10px;
+}
+
+.ex3 {
+  /* first value is top and bottom, second value is right and left */
+  padding: 10px 20px;
+}
+
+.ex4 {
+  /* first value is top, second value is right and left, third value is bottom */
+  padding: 10px 20px 30px;
+}
+
+.ex5 {
+  /* top -> right -> bottom -> left */
+  padding: 10px 20px 30px 40px;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: #999;
+  color: #000;
+  border: 5px solid #666;
+}

@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+}
+h1 {
+  font-size: 100px;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  color: red;
+}
+p {
+  font-family: Arial;
+}
+a {
+  text-decoration: none;
+}
+img {
+  border: solid 1px;
+}
+

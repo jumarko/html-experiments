@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+#wrapper * {
+  padding: 20px;
+  font-size: 20px;
+  border: 20px solid rgba(0,0,0,0.5);
+}
+
+#wrapper main {
+  margin: 5%;
+  margin-top: -50px;
+  padding: 5%;
+  width: 60%;
+  height: 200px;
+}
+
+#wrapper footer {
+  margin-top: 15px;
+}

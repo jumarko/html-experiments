@@ -1,0 +1,23 @@
+.ex1 {
+  width: 200px;
+  height: 200px;
+  background-color: #999;
+  color: #000;
+}
+
+.ex2 {
+  width: 200px;
+  height: 200px;
+  background-color: #999;
+  color: #000;
+  border: 5px solid;
+}
+
+.ex3 {
+  width: 200px;
+  height: 200px;
+  background-color: #999;
+  color: #000;
+  border: 5px solid;
+  padding: 20px;
+}

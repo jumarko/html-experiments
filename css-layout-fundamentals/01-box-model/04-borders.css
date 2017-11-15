@@ -1,0 +1,48 @@
+.ex1 {
+  border: 5px solid #000;
+}
+
+/* This is the same as previous - not shown in the lesson. */
+.ex1-1 {
+  border-width: 5px;
+  border-style: solid;
+  border-color: #000;
+}
+
+.ex2 {
+  border-top-width: 5px;
+  border-top-style: solid;
+  border-top-color: #000;
+}
+
+.ex3 {
+  border-top: 5px solid #000;
+}
+
+.ex4 {
+  border-top: 5px dotted #000;
+  border-right: 5px dashed #000;
+  border-bottom: 5px double #000;
+  border-left: 5px solid #000;
+}
+
+.ex5 {
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+.ex6 {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.ex7 {
+  border-radius: 60px / 30px;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: #999;
+  color: #000;
+}

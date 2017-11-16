@@ -1,0 +1,51 @@
+.ex1 {
+  margin: 0 0 10px 0;
+}
+
+
+/* negative margin */
+/*
+.ex1 {
+  margin: 0 0 -10px 0;
+}
+*/
+
+/* `auto` as a standard way to center things inside viewport */
+/*
+.ex1 {
+  margin: 0 auto;
+}
+*/
+
+/* Collapsing margins */
+.ex2 {
+  margin: 10px 0 0 0;
+}
+
+/* try to add some text insdie "empty" div and see the difference */
+.empty {
+  margin: 10px 0 10px 0;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: #999;
+  color: #000;
+  border: 5px solid #666;
+}
+
+.outer {
+  height: 200px;
+  width: 200px;
+  background-color: #999;
+  color: #000;
+  margin-top: 10px;
+  padding-top: 1px;
+}
+
+.nested {
+  width: 120px;
+  /* this has no effect! - try adding padding-top to .outer */
+  margin-top: 10px;
+}

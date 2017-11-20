@@ -7,17 +7,19 @@ p {
 .one {
   background-color: #490A3D;
   color: #fff;
+  position: absolute;
+  top: 10px;
 }
 
 .two {
   background-color: #E97F02;
-  float: left;
-  width: 200px;
+  position: absolute;
+  top: 20px;
 }
 
 .three {
   background-color: #8A9B0F;
   position: absolute;
-  top 30px;
+  top: 30px;
 }
 

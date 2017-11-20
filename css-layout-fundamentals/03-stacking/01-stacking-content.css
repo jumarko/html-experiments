@@ -1,0 +1,23 @@
+p {
+  border: 5px solid #999;
+  padding: 1em;
+  width: 400px;
+}
+
+.one {
+  background-color: #490A3D;
+  color: #fff;
+}
+
+.two {
+  background-color: #E97F02;
+  float: left;
+  width: 200px;
+}
+
+.three {
+  background-color: #8A9B0F;
+  position: absolute;
+  top 30px;
+}
+

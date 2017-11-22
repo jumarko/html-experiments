@@ -1,0 +1,31 @@
+.wrapper {
+  width: 640px;
+  margin: 0 auto;
+}
+
+
+.col1 {
+  background-color: #490A3D;
+  color: #fff;
+  padding: 10px;
+}
+
+.col2 {
+  background-color: #BD1550;
+  color: #fff;
+  padding: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}

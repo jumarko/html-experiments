@@ -1,0 +1,30 @@
+.wrapper {
+  width: 640px;
+  margin: 0 auto;
+  background-color: #999;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.col1 {
+  background-color: #490A3D;
+  color: #fff;
+  padding: 10px;
+  float: left;
+  width: 30%;
+}
+
+.col2 {
+  background-color: #BD1550;
+  color: #fff;
+  padding: 10px;
+  float: right;
+  width: 65%;
+}
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}

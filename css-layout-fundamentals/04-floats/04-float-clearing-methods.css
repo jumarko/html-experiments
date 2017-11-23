@@ -22,7 +22,9 @@
   width: 65%;
 }
 
-.clear {
+.clearfix::after {
+  content: "";
+  display: table;
   clear: both;
 }
 

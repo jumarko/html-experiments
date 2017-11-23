@@ -22,6 +22,10 @@
   width: 65%;
 }
 
+.clear {
+  clear: both;
+}
+
 html {
   box-sizing: border-box;
 }
